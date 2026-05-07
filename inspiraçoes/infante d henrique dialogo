@@ -1,0 +1,15 @@
+   "marinheiro": "Tomás"
+}
+
+dialogo = [
+    (personagens["capitao"], "O mar está inquieto esta noite… mas foi graças ao Infante que chegamos tão longe."),
+    (personagens["marinheiro"], "Você fala de Infante Dom Henrique?"),
+    (personagens["capitao"], "Sim. Ele reuniu navegadores, astrônomos e cartógrafos para explorar o desconhecido."),
+    (personagens["marinheiro"], "Dizem que ninguém queria passar do Cabo Bojador."),
+    (personagens["capitao"], "Muitos temiam monstros e tempestades eternas."),
+    (personagens["marinheiro"], "E o Infante não tinha medo?"),
+    (personagens["capitao"], "Ele acreditava que o conhecimento era maior que o medo."),
+    (personagens["marinheiro"], "Então foi ele quem iniciou as grandes navegações portuguesas?"),
+    (personagens["capitao"], "Exatamente. Sem ele, talvez nunca tivéssemos cruzado estes mares."),
+    (personagens["marinheiro"], "Capitão… vejo luzes no horizonte!"),
+    (personagens["capitao"], "Prepare a tripulação! Hoje escreveremos história.")
