@@ -56,8 +56,6 @@ Outros
 
 Motivações e Participantes
 
-Monarquias Nacionais: Reis que financiavam para expandir territórios e poder;
-
-Burguesia: Investidores que buscavam lucro no comércio de especiarias;
-
-Igreja Católica: Interessada na expansão da fé cristã.
+- Monarquias Nacionais: Reis que financiavam para expandir territórios e poder;
+- Burguesia: Investidores que buscavam lucro no comércio de especiarias;
+- Igreja Católica: Interessada na expansão da fé cristã.
