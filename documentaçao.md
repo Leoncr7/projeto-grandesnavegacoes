@@ -29,6 +29,7 @@ detalhes:
 - coordenadas funcionais
 - ambientes interativos
 - utilizar imagens da pasta de inspirações como referencia
+- criar mapa do Brasil com grande ambientação/mata
 
 RF003 - Tarefas
 
